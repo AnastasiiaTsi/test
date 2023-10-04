@@ -37,3 +37,20 @@
     justify-content: space-around;
     align-items: center;
 }
+.box img{
+    width: 60px;
+    height: 73px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background-position: center;
+    background-size: cover;
+}
+.box h3{
+    font-family: 'federo', sans-serif;
+    font-size: 14px;
+    font-weight: 600;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
